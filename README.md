@@ -50,8 +50,10 @@ A number guessing game built with Streamlit where the player picks a difficulty 
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+![Game demo](image.png)
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+![Enhanced UI 1](image-1.png)
+
+![Enhanced UI 2](image-2.png)
